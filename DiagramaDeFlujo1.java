@@ -2,7 +2,6 @@
  * el primer algoritmo determina el numero mayor
  * entre 3 numeros ingresados por el usuario
  */
-package laboratorio.pkg1;
 
 /**
  *
@@ -10,7 +9,7 @@ package laboratorio.pkg1;
  * @version 1.0
  * 
  */
-public class Laboratorio11 {
+public class DiagramaDeFlujo1 {
 
     /**
      * @param args guarda los valores de entrada
