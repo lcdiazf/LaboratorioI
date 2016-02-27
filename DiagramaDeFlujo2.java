@@ -3,14 +3,13 @@
  * 4 espacios y 1 asteriscos, y va disminuyendo los espacios en 1 y aumentando 
  * los asteriscos (2*contador)-1 hasta llegar a 9((2*contador=5)-1)
  */
-package laboratorio.pkg1.pkg2;
-
+ 
 /**
  *
  * @author Luis Carlos Diaz y Juan Pablo Huertas M
  * @version 1.0
  */
-public class Laboratorio12 {
+public class DiagramaDeFlujo2 {
 
     /**
      * @param args permite leer variables
