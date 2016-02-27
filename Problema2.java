@@ -3,12 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package laboratorio.pkg1.pkg6;
 
 /**
  * @author Juan Pablo Huertas Mendez y Luis Carlos Diaz
  */
-public class Laboratorio16 {
+public class Problema3 {
 
     /**
      * @param args permite leer variables
