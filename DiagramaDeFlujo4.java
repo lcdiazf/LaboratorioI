@@ -3,14 +3,13 @@
  * que adicionalmente dice si el numero que se dijo es 
  * mayor o menor que el numero respuesta y tiene maximo 7 intentos
  */
-package laboratorio.pkg1.pkg4;
 
 /**
  *
  * @author Luis Carlos Diaz y Juan Pablo Huertas M
  * @version 1.0
  */
-public class Laboratorio14 {
+public class DiagramaDeFlujo4 {
 
     /**
      * @param args permite leer valores ingresados por teclado
