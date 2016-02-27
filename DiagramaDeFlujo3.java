@@ -1,14 +1,13 @@
 /*
  * Permite determinar cuando pasa de una funcion a otra y cuando se acaba el main
  */
-package laboratorio.pkg1.pkg3;
 
 /**
  *
  * @author Luis Carlos Diaz y Juan Pablo Huertas M
  * @version 1.0
  */
-public class Laboratorio13 {
+public class DiagramaDeFlujo3 {
 
     /**
      * @param args permite leer variables
