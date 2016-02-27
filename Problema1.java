@@ -3,7 +3,6 @@
  * a alcalde de los diferentes municipios del departamento de 
  * Topaiti. máximo 20 municipios y 20 candidatos
  */
-package laboratorio.pkg1.pkg5;
 
 /**
  *
@@ -11,7 +10,7 @@ package laboratorio.pkg1.pkg5;
  * @version 1.0
  *
  */
-public class Laboratorio15 {
+public class Problema1 {
 
     /**
      * @param args permite leer datos de entrada
