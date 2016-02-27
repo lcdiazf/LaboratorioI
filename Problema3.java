@@ -1,11 +1,7 @@
 public class Laboratorio {
 
 public static void main(String[] args) {
-        // TODO code application logic here
         java.util.Scanner input = new java.util.Scanner(System.in);
-        /*int a;
-a=entrada.nextInt();
-         */
         boolean parqueadero[] = new boolean[87];
         int entrada[] = new int[87];
         int ganancias = 0;
