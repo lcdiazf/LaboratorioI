@@ -1,2 +1,2 @@
-# LaboratorioI
-Integrantes: Luis Carlos Diaz Fajardo, Juan Pablo Huertas Mednez
+# Laboratorio I
+Integrantes: Luis Carlos Diaz Fajardo, Juan Pablo Huertas Méndez
